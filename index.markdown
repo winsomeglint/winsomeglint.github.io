@@ -5,8 +5,15 @@
 layout: home
 author: Lion Summerbell
 ---
-<h1>{{ page.author }}</h1>
-<p class="quote">Everything he said he meant, inasmuch as he meant anything; or as much as anything meant anything, which, in its frustrating way, it had to, and which, at the same time, only a sucker'd believe.</p>
-<ul>
-	<li><a href="mailto:qa_wagstaff@pm.me">contact</a></li>
-</ul>
+<div class="container">
+
+<div class="quote">
+Everything he said he meant, inasmuch as he meant anything; or as much as anything meant anything, which, in its frustrating way, it had to, and which at the same time only a sucker'd believe.
+</div>
+
+<div class="header">
+    <div class="title">Lion Summerbell</div>
+    <div class="nav"><a href="#">Contact</a></div>
+</div>
+
+</div>

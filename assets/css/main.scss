@@ -2,8 +2,36 @@
 ---
 @import "general";
 
+.container {
+    max-width: 700px;
+    margin: 120px auto;
+    padding: 20px;
+}
+
 .quote {
-	text-align: center;
-	padding: 0 270px;
-	line-height: 1.5;
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-top: 1px solid #fff;
+    padding-top: 8px;
+    margin-top: 80px;
+}
+
+.nav {
+	text-align: right;
+}
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    text-decoration: underline;
 }
