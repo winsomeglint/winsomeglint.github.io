@@ -8,7 +8,7 @@ author: Lion Summerbell
 <div class="container">
 
 <div class="quote">
-Everything he said he meant, inasmuch as he meant anything; or as much as anything meant anything, which, in its frustrating way, it had to, and which at the same time only a sucker'd believe.
+Everything he said he meant, inasmuch as he meant anything; or as much as anything meant anything, which in its frustrating way it had to, and which at the same time only a sucker could believe.
 </div>
 
 <div class="header">
