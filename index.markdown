@@ -12,7 +12,6 @@ Everything he said he meant, inasmuch as he meant anything; or as much as anythi
 </div>
 
 <div class="header">
-    <div class="title">Lion Summerbell</div>
     <div class="nav"><a href="#">Contact</a></div>
 </div>
 
